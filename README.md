@@ -3,10 +3,7 @@
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="Right" src="git.gif" alt="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet426&label=Profile%20views&color=ff47b2&style=plastic" alt="puneet426" /> </p>
-
-<p align="left"> <a href="https://twitter.com/puneet626" target="blank"><img src="https://img.shields.io/twitter/follow/puneet626?logo=twitter&style=for-the-badge" alt="puneet626" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhsharma123&label=Profile%20views&color=ff47b2&style=plastic" alt="kaustubhsharma123" /> </p>
 
 - 🔭 I’m currently working on **My Development Skills**
 
@@ -14,12 +11,8 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 👨‍💻 All of my projects are available at my <a href="https://666c4bdce040515a889de420--brilliant-mermaid-2abd53.netlify.app/" target="_blank">**Portfolio**
- </a>
 
-- 💬 Ask me about **HTML , CSS ,JS**
-
-- 📫 How to reach me **tiwaripuneet626@gmail.com**
+- 📫 How to reach me **kaustubh9536sharma@gmail.com**
 
 - ⚡ Fun fact **I am an all rounder!!!**
 <hr>
