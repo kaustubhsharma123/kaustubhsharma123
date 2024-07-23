@@ -21,8 +21,8 @@
 <h3 align="left"><img align="center"  src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269534972-6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55.gif" width = "30px">  Connect with me:</h3>
 <p align="left">
 
-<a href="[https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit](https://www.linkedin.com/in/kaustubh-sharma-39387a28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit" height="30" width="40" /></a>
-<a href="https://instagram.com/puneettiwari368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puneettiwari368" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaustubh-sharma-39387a28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kaustubh_sharma007?utm_source=qr&igsh=MWNwZjd1dHAycWY2dQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puneettiwari368" height="30" width="40" /></a>
     
 
 <hr>
